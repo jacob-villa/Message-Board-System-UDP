@@ -1,0 +1,30 @@
+{
+    "commands": [
+        {
+            "command": "join"
+        },
+        {
+            "command": "leave"
+        },
+        {
+            "command": "register",
+            "handle": ""
+        },
+        {
+            "command": "all",
+            "message": ""
+        },
+        {
+            "command": "msg",
+            "handle": "",
+            "message": ""
+        },
+        {
+            "command": "?"
+        },
+        {
+            "command": "error",
+            "message": ""
+        }
+    ]
+}
